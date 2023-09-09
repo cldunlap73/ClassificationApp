@@ -14,9 +14,9 @@
         android:layout_alignParentTop="true"
         android:layout_alignParentEnd="true"
         android:layout_marginStart="105dp"
-        android:layout_marginTop="153dp"
+        android:layout_marginTop="145dp"
         android:layout_marginEnd="103dp"
-        tools:srcCompat="@tools:sample/avatars" />
+        tools:srcCompat="@drawable/us__5_series_2003a_obverse" />
 
     <Button
         android:id="@+id/button"
@@ -26,7 +26,7 @@
         android:layout_alignParentTop="true"
         android:layout_marginStart="69dp"
         android:layout_marginTop="505dp"
-        android:text="Button" />
+        android:text="Camera" />
 
     <Button
         android:id="@+id/button2"
@@ -36,7 +36,7 @@
         android:layout_alignParentEnd="true"
         android:layout_marginTop="506dp"
         android:layout_marginEnd="79dp"
-        android:text="Button" />
+        android:text="Photo Gallery" />
 
     <TextView
         android:id="@+id/result"
@@ -44,7 +44,8 @@
         android:layout_height="wrap_content"
         android:layout_alignParentTop="true"
         android:layout_alignParentEnd="true"
-        android:layout_marginTop="659dp"
-        android:layout_marginEnd="174dp"
-        android:text="TextView" />
+        android:layout_marginTop="662dp"
+        android:layout_marginEnd="133dp"
+        android:text="Copyright ChristyCorp 2023" />
+
 </RelativeLayout>
